@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<data>
+<Question id="1" difficulty="1" name="Which character was first played by Arnold Schwarzenegger in a 1984 film?" correct="d" a="The Demonstrator" b="The Instigator" c="The Investigator" d="The Terminator"></Question>
+<Question id="2" difficulty="1" name="Which colour is used as a term to describe an illegal market in rare goods?" correct="c" a="Blue" b="Red" c="Black" d="White"></Question>
+<Question id="3" difficulty="1" name="In which country would you expect to be greeted with the word 'bonjour'?" correct="b" a="Italy" b="France" c="Spain" d="Wales"></Question>
+<Question id="4" difficulty="1" name="What would you normally do with a beret?" correct="d" a="Eat it" b="Play it" c="Sit on it" d="Wear it"></Question>
+<Question id="5" difficulty="1" name="Which word follows 'North' and 'South' to give the names of two continents?" correct="b" a="Africa" b="America" c="Asia" d="Australia"></Question>
+<Question id="6" difficulty="1" name="What would you expect to see at the London Aquarium?" correct="d" a="Flowers" b="Trees" c="Steam rollers" d="Fish"></Question>
+<Question id="7" difficulty="1" name="Which country is not an island?" correct="c" a="Madagascar" b="Cuba" c="Germany" d="Jamaica"></Question>
+<Question id="8" difficulty="1" name="How many moons orbit the Earth?" correct="a" a="One" b="Two" c="Three" d="Four"></Question>
+<Question id="9" difficulty="2" name="Complete the title of the Oscar-nominated film starring Tom Cruise,'The Last ...'?" correct="a" a="Samurai" b="Ninja" c="Shogun" d="Geisha"></Question>
+<Question id="10" difficulty="2" name="Which metal lends its name to a US five-cent coin?" correct="c" a="Iron" b="Zinc" c="Nickel" d="Tin"></Question>
+<Question id="11" difficulty="2" name="Which of these is a slang term for 'excellent'?" correct="d" a="Joker" b="Queen" c="Jack" d="Ace"></Question>
+<Question id="12" difficulty="2" name="What is the collective term for actors appearing in a film or play?" correct="b" a="Band" b="Cast" c="Group" d="Clique"></Question>
+<Question id="13" difficulty="3" name="What term means a movie that is a box-office failure?" correct="b" a="Grenade" b="Bomb" c="Mine" d="Shell"></Question>
+<Question id="14" difficulty="3" name="By what name is sodium carbonate commonly known?" correct="c" a="Soda biscuit" b="Soda bread" c="Washing soda" d="Lime and soda"></Question>
+<Question id="15" difficulty="3" name="Which of the following competitions did Turkey win in 2003?" correct="c" a="Cricket World Cup" b="Six Nations Rugby" c="Eurovision" d="America's Cup"></Question>
+<Question id="16" difficulty="3" name="What soft drink is added to vodka to make a Bloody Mary cocktail?" correct="b" a="Angostura bitters" b="Tomato juice" c="Orange juice" d="Blackcurrant juice"></Question>
+<Question id="17" difficulty="4" name="Which dinosaur could fly?" correct="d" a="Allosaurus" b="Diplodocus" c="Stegosaurus" d="Pterodactyl"></Question>
+<Question id="18" difficulty="4" name="Which colour rose represented the House of Lancaster in the Wars of the Roses?" correct="a" a="Red" b="White" c="Pink" d="Yellow"></Question>
+<Question id="19" difficulty="4" name="According to the Sunday Times Rich List, which author became richer than the Queen in 2003?" correct="d" a="P D James" b="Mary Wesley" c="Germaine Greer" d="J K Rowling"></Question>
+<Question id="20" difficulty="4" name="The Smurfs came from which country?" correct="b" a="Sweden" b="Belgium" c="France" d="Denmark"></Question>
+<Question id="21" difficulty="5" name="In October 2003, which became the third nation to put a man into space?" correct="b" a="Japan" b="China" c="South Africa" d="Germany"></Question>
+<Question id="22" difficulty="5" name="The name of which famous liqueur is Italian for 'witch'?" correct="b" a="Sambuca" b="Strega" c="Grappa" d="Amaretto"></Question>
+<Question id="23" difficulty="5" name="Who protected Whitney Houston in the 1992 blockbuster 'The Bodyguard'?" correct="c" a="Kevin Spacey" b="Kevin Kline" c="Kevin Costner" d="Kevin Kennedy"></Question>
+<Question id="24" difficulty="6" name="A specialty of Switzerland, of what is raclette a type?" correct="a" a="Cheese fondue" b="Sweet white wine" c="Breaded escalope" d="Cured meat"></Question>
+<Question id="25" difficulty="6" name="Which of these is a novel by the horror writer James Herbert?" correct="b" a="The Mist" b="The Fog" c="The Drizzle" d="The Haze"></Question>
+<Question id="26" difficulty="6" name="Which drink is not aniseed flavoured?" correct="a" a="Amaretto" b="Pastis" c="Raki" d="Ricard"></Question>
+<Question id="27" difficulty="6" name="Who was a leader of the Sioux nation?" correct="a" a="Crazy Horse" b="Wild Dog" c="Mad Eagle" d="Raving Bear"></Question>
+<Question id="28" difficulty="6" name="Which island was originally named after the Spanish word for 'pelican'?" correct="a" a="Alcatraz" b="Barbados" c="Cuba" d="Sardinia"></Question> 
+<Question id="29" difficulty="7" name="The siege of which town was the last major battle of the American Revolution?" correct="d" a="Boston" b="Lexington" c="Hartford" d="Yorktown"></Question>
+<Question id="30" difficulty="7" name="By what title do the Bajorans refer to Benjamin Sisko in TV's 'Star Trek: Deep Space 9'?" correct="b" a="Guider" b="Emissary" c="Prophet" d="Anointed"></Question>
+</data>
+

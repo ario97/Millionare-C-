@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Player>
+  <name>Chuck</name>
+  <surname>Norris</surname>
+  <date>8-12-2018</date>
+  <moneyWon>1000000</moneyWon>
+  <jokers>
+  </jokers>
+  <Player>
+    <name>hanzo</name>
+    <surname>shimada</surname>
+    <date>30-12-2018</date>
+    <moneyWon>0</moneyWon>
+    <jokers>
+    </jokers>
+  </Player>
+  <Player>
+    <name>genji</name>
+    <surname>shimada</surname>
+    <date>11-01-2019</date>
+    <moneyWon>0</moneyWon>
+    <jokers>
+    </jokers>
+  </Player>
+  <Player>
+    <name>jesse</name>
+    <surname>mcree</surname>
+    <date>11-01-2019</date>
+    <moneyWon>0</moneyWon>
+    <jokers> Call Ask audience 50/50</jokers>
+  </Player>
+  <Player>
+    <name>stevo</name>
+    <surname>stevic</surname>
+    <date>12-01-2019</date>
+    <moneyWon>2000</moneyWon>
+    <jokers> Call</jokers>
+  </Player>
+  <Player>
+    <name>testing43</name>
+    <surname>testing43</surname>
+    <date>12-01-2019</date>
+    <moneyWon>100</moneyWon>
+    <jokers> Call Ask audience 50/50</jokers>
+  </Player>
+  <Player>
+    <name>testing32</name>
+    <surname>testing32</surname>
+    <date>12-01-2019</date>
+    <moneyWon>100</moneyWon>
+    <jokers>
+    </jokers>
+  </Player>
+  <Player>
+    <name>testing21</name>
+    <surname>testing21</surname>
+    <date>12-01-2019</date>
+    <moneyWon>100</moneyWon>
+    <jokers>
+    </jokers>
+  </Player>
+  <Player>
+    <name>testin76</name>
+    <surname>testin76</surname>
+    <date>12-01-2019</date>
+    <moneyWon>0</moneyWon>
+    <jokers>
+    </jokers>
+  </Player>
+  <Player>
+    <name>stevo</name>
+    <surname>stevic</surname>
+    <date>19-01-2019</date>
+    <moneyWon>0</moneyWon>
+    <jokers> Call</jokers>
+  </Player>
+  <Player>
+    <name>pero</name>
+    <surname>peric</surname>
+    <date>19-01-2019</date>
+    <moneyWon>0</moneyWon>
+    <jokers> Call Ask audience 50/50</jokers>
+  </Player>
+  <Player>
+    <name>stevo </name>
+    <surname>stevic</surname>
+    <date>19-01-2019</date>
+    <moneyWon>0</moneyWon>
+    <jokers>
+    </jokers>
+  </Player>
+  <Player>
+    <name>pavo</name>
+    <surname>pavic</surname>
+    <date>19-01-2019</date>
+    <moneyWon>2000</moneyWon>
+    <jokers>
+    </jokers>
+  </Player>
+</Player>
